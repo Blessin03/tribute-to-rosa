@@ -1,0 +1,41 @@
+#main{
+  margin: 0 auto;
+  padding: 0;
+text-align: center;
+background-color:whitesmoke;
+font-family: 'Times New Roman', Times, serif;
+}
+
+#image{
+  max-width: 100%;
+
+  height: auto;
+
+  margin: auto;
+}
+
+#title{
+  padding-top: 50px;
+}
+img{
+  display: block;
+
+}
+
+#tribute-info li{
+  padding-top: 50px;
+text-align: left;
+
+}
+
+
+
+#tribute-info {
+  padding-top: 50px;
+  border: 1px dashed gray;
+}
+
+section{
+  border: 1px dashed blue;;
+
+}
